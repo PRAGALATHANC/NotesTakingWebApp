@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "pass1"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "pass2"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "content": "This note 1 was created by user 1"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "content": "This note 2 was created by user 1"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "content": "This note 3 was created by user 1"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "content": "This note 4 was created by user 2"
+    }
+  ]
+}
